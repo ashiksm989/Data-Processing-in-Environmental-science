@@ -1,0 +1,33 @@
+Plot;Herbicide;Adjuvant;Code;Block;Yield;Height1;Height2;Height3;Height4;Height5
+1;Rimsulfuron;Surfactant (0.1%);1;1;85,1;160;168;164;190;166
+15;Rimsulfuron;Surfactant (0.1%);1;2;120;180;166;180;178;190
+23;Rimsulfuron;Surfactant (0.1%);1;3;126;203;192;203;195;194
+32;Rimsulfuron;Surfactant (0.1%);1;4;130,6;200;187;180;181;180
+2;Rimsulfuron;Surfactant (0.3%);2;1;78,5;166;164;170;175;182
+11;Rimsulfuron;Surfactant (0.3%);2;2;93,5;167;185;168;163;160
+22;Rimsulfuron;Surfactant (0.3%);2;3;127,6;198;185;197;190;193
+33;Rimsulfuron;Surfactant (0.3%);2;4;137,2;180;180;185;184;200
+3;Rimsulfuron;AmmoniumSulphate;3;1;58,2;180;170;158;155;150
+14;Rimsulfuron;AmmoniumSulphate;3;2;48;162;150;158;153;155
+25;Rimsulfuron;AmmoniumSulphate;3;3;92,4;190;188;185;170;175
+34;Rimsulfuron;AmmoniumSulphate;3;4;86;172;162;170;195;183
+4;Rimsulfuron;Mineral oil (4 L-ha);4;1;74;168;162;153;153;166
+12;Rimsulfuron;Mineral oil (4 L-ha);4;2;93;184;186;184;186;188
+24;Rimsulfuron;Mineral oil (4 L-ha);4;3;109,9;188;195;190;195;185
+35;Rimsulfuron;Mineral oil (4 L-ha);4;4;127,7;170;177;185;170;184
+5;Rimsulfuron;Mineral Oil (8 L-ha);5;1;98,5;150;148;169;175;158
+13;Rimsulfuron;Mineral Oil (8 L-ha);5;2;137,9;170;176;165;190;181
+21;Rimsulfuron;Mineral Oil (8 L-ha);5;3;101,3;205;218;197;198;200
+31;Rimsulfuron;Mineral Oil (8 L-ha);5;4;115,1;170;180;175;192;180
+6;Rimsulfuron;Axan;6;1;49,1;175;175;185;175;172
+20;Rimsulfuron;Axan;6;2;131,5;188;182;180;195;172
+28;Rimsulfuron;Axan;6;3;104,9;185;182;195;225;205
+37;Rimsulfuron;Axan;6;4;115,5;175;180;162;170;156
+7;Rimsulfuron;Frigate;7;1;75,5;186;185;185;186;187
+16;Rimsulfuron;Frigate;7;2;89,9;170;185;172;190;192
+27;Rimsulfuron;Frigate;7;3;132;190;190;190;187;195
+38;Rimsulfuron;Frigate;7;4;136,3;184;180;185;190;195
+8;Rimsulfuron;None;8;1;44,6;180;165;140;158;165
+19;Rimsulfuron;None;8;2;67,6;174;175;170;170;185
+30;Rimsulfuron;None;8;3;96,5;170;172;187;180;186
+39;Rimsulfuron;None;8;4;113,5;175;185;185;192;190
